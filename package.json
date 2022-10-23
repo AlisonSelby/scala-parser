@@ -1,0 +1,7 @@
+{
+  "name": "scala-parser",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
